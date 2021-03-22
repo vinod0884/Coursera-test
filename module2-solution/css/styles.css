@@ -204,6 +204,14 @@ border: 2px solid black;
 background-color: gray;
 margin: 5px;
 }
+#p3{text-align: center;
+   font-family: cursive;
+   font-size: 1.25em;
+	width: 15%;
+   margin-left: 100%;
+   background-color: yellow;
+   padding: 5px;
+	}	
 .col-sl-1f {width: 8.33%}
 .col-sl-2f {width: 16.66%}
 .col-sl-3f {width: 25%}
